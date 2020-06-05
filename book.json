@@ -1,0 +1,6 @@
+{
+    "title": "GitBook",
+    "author": "Aries-Hui",
+    "description": "GitBook Test",
+    "gitbook": ">=3.0.0"
+}
